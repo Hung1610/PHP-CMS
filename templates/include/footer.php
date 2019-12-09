@@ -1,0 +1,12 @@
+      <div id="footer">
+        Widget News &copy; 2011. All rights reserved. <a href="admin.php">Site Admin</a>
+      </div>
+
+    </div>
+    <script type="text/javascript" src="ckeditor/ckeditor.js"></script>
+    <script>
+      CKEDITOR.replace( 'content' );
+    </script>
+  </body>
+</html>
+
